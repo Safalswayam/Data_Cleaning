@@ -40,7 +40,7 @@
 <h2 style="color:#8e44ad;">🚀 How to Use</h2>
 <ol>
   <li>Clone this repository:
-    <pre><code>git clone &lt;repo_link&gt;</code></pre>
+    <pre><code>git clone &lt;https://github.com/Safalswayam/Data_Cleaning.git&gt;</code></pre>
   </li>
   <li>Open <b>Data_cleaning.ipynb</b> in Jupyter Notebook or Jupyter Lab.</li>
   <li>Run the notebook cells step-by-step to execute the cleaning operations.</li>
